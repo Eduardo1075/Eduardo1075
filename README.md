@@ -9,7 +9,7 @@ Me chamo Eduardo Augusto, tenho 21 anos e sou natural de Brasília. Estudo Admin
         <img 
             alt="perfil linkedln" 
             title="Linkedln" 
-            src=""
+            src="![linkedin](images/linkedin.png)"
         />
     </a>
 </p>
