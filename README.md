@@ -2,7 +2,7 @@
 
 **`Cientista de Dados`**
 
-Me chamo Eduardo Augusto, tenho 21 anos e sou natural de Brasília. Estudo Administração na universidade de Brasília (UnB). Sou profissional em transição para a área de Ciência de Dados, com foco na aplicação de técnicas analíticas e modelos preditivos para apoiar decisões estratégicas, especialmente em contextos financeiros e corporativos. Tenho experiência prática com Python, SQL e bibliotecas como Pandas, NumPy, scikit-learn, XGBoost e TensorFlow, desenvolvendo pipelines de dados, modelos de Machine Learning e visualizações com Power BI, Tableau e matplotlib. Também atuo com controle de versão (Git) e computação em nuvem (AWS, Google Cloud), buscando soluções escaláveis e orientadas a resultados.
+Me chamo Eduardo Augusto, tenho 22 anos e sou natural de Brasília. Estudo Administração na universidade de Brasília (UnB). Sou profissional em transição para a área de Ciência de Dados, com foco na aplicação de técnicas analíticas e modelos preditivos para apoiar decisões estratégicas, especialmente em contextos financeiros e corporativos. Tenho experiência prática com Python, SQL e bibliotecas como Pandas, NumPy, scikit-learn, XGBoost e TensorFlow, desenvolvendo pipelines de dados, modelos de Machine Learning e visualizações com Power BI, Tableau e matplotlib. Também atuo com controle de versão (Git) e computação em nuvem (AWS, Google Cloud), buscando soluções escaláveis e orientadas a resultados.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardo-augusto-da-silva-batista-vieira/">
